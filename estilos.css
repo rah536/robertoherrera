@@ -152,6 +152,12 @@ table tr th img{
     border-top: 3px solid;
 }
 
+#txtTecnologias{
+    color: black;
+    
+
+}
+
 #contacto{
     color: white;
     background: linear-gradient(50deg, rgb(8, 133, 171) 5%, rgb(50, 201, 247) 60%);
